@@ -1,0 +1,28 @@
+{
+    "cursos": [
+        {
+            "id": 1,  
+            "title": "React desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/medium/4ff27f76-96a9-44ab-bb7f-ed0e17263e7c.png",
+            "price": 30,
+            "professor": "Beto Quiroga",
+            "professorImage": "https://edteam-media.s3.amazonaws.com/users/thumbnail/fe7d67c4-f2b2-4c93-82d5-56a83c9cd86f.jpg"
+        },
+        {
+            "id": 2,  
+            "title": "HTML desde cero",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/26557907-0555-427e-a40c-6ff207f98d72.png",
+            "price": 50,
+            "professor": "Alvaro Felipe",
+            "professorImage": "https://edteam-media.s3.amazonaws.com/users/thumbnail/c2be732e-7341-49ea-8f49-6cc461c42ca4.png"
+        },
+        {
+            "id": 3,  
+            "title": "CSS avanzado",
+            "image": "https://edteam-media.s3.amazonaws.com/courses/small/262e68b3-eea2-43f2-9e9a-febc106a8295.png",
+            "price": 48,
+            "professor": "Alexis Mora",
+            "professorImage": "https://edteam-media.s3.amazonaws.com/users/thumbnail/24c5fb07-752a-4212-adf3-266b64396067.jpg"
+        }
+    ]  
+}
